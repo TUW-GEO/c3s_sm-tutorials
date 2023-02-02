@@ -18,4 +18,4 @@ dependencies:
   - pip:
     - cdsapi
     - jupyter_contrib_nbextensions
-  
+    - black[jupyter] 
