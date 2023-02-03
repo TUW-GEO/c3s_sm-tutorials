@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - jupyterlab
+  - jupyterlab=3.5.0
   - pandas
   - numpy
   - netCDF4
@@ -12,6 +12,8 @@ dependencies:
   - scipy
   - dask
   - cartopy
+  - jupyter_contrib_nbextensions
+  - nb_conda_kernels
   - pip
   - pip:
     - cdsapi
