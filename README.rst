@@ -12,7 +12,7 @@ The package is designed to run on `mybinder.org <https://mybinder.org/>`_. To op
 **Tutorial 1 - Data Access and Anomalies** (click badge to launch)
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/TUW-GEO/c3s_sm-tutorials/v1.0?labpath=T1_DataAccess%26Anomalies.ipynb
+ :target: https://mybinder.org/v2/gh/TUW-GEO/c3s_sm-tutorials/v1.0?labpath=T1_DataAccess_Anomalies.ipynb
 
 **Note**: *It can take a few minutes to open notebooks on mybinder. If jupyter-lab does not open in your browser after e.g. 5-10 minutes, refresh the mybinder loading page and try again.*
 
