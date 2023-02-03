@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
+  - python=3.8
   - jupyterlab
   - pandas
   - numpy
@@ -13,9 +13,9 @@ dependencies:
   - dask
   - cartopy
   - ipywidgets
-  - nb_conda_kernels
-  - jupyterlab-spellchecker
+# - nb_conda_kernels
+# - jupyterlab-spellchecker
   - pip:
     - cdsapi
-    - jupyter_contrib_nbextensions
+#    - jupyter_contrib_nbextensions
     - black[jupyter] 
