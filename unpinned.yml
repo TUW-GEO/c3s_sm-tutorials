@@ -1,0 +1,20 @@
+name: tutorials
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab=3.5.0
+  - pandas
+  - numpy
+  - netCDF4
+  - xarray
+  - dask
+  - cartopy
+  - jupyter_contrib_nbextensions
+  - nb_conda_kernels
+  - pip
+  - pip:
+    - cdsapi
+    - ipywidgets
+    - black[jupyter] 
