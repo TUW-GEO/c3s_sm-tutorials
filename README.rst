@@ -18,6 +18,8 @@ Download C3S Satellite Soil Moisture data from the Copernicus Climate Data Store
 
 **Note**: *It can take a few minutes to open notebooks on mybinder. If jupyter-lab does not open in your browser after e.g. 5-10 minutes, refresh the mybinder loading page and try again.*
 
+A non-interactive version of this notebook is available `here <https://c3s-sm.readthedocs.io/en/latest/T1_DataAccess_Anomalies.html>`_!
+
 ------------
 
 Jupyter notebook controls
