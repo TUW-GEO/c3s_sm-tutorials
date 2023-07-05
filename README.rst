@@ -12,7 +12,7 @@ The package is designed to run on `mybinder.org <https://mybinder.org/>`_. To op
 **Tutorial 1 - Data Access and Anomalies** (click badge to launch)
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/TUW-GEO/c3s_sm-tutorials/v1.0?labpath=T1_DataAccess_Anomalies.ipynb
+ :target: https://mybinder.org/v2/gh/TUW-GEO/c3s_sm-tutorials/v1.1?labpath=T1_DataAccess_Anomalies.ipynb
 
 Download C3S Satellite Soil Moisture data from the Copernicus Climate Data Store (CDS), read data stacks in python using `xarray <xarray.pydata.org/>`_ and perform simple analyses of soil moisture anomalies over selected study areas.
 
