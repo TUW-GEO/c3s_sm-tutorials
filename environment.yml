@@ -16,5 +16,4 @@ dependencies:
   - pip
   - pip:
     - cdsapi
-    - ipywidgets
     - black[jupyter] 
