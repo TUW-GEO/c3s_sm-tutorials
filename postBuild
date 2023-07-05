@@ -1,2 +1,2 @@
 # download fall-back data (for binder)
-wget -q -O ../data_v1.1.zip "https://cloud.geo.tuwien.ac.at/s/QKqJqw646zfAxKH/download" && unzip -n ../data_v1.1.zip && rm ../data_v1.1.zip 
+wget -q -O data_v1.1.zip "https://cloud.geo.tuwien.ac.at/s/QKqJqw646zfAxKH/download" && unzip -n data_v1.1.zip && rm data_v1.1.zip 

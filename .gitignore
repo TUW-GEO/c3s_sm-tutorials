@@ -55,5 +55,4 @@ MANIFEST
 .virtual_documents/*
 
 # Testdata
-DATA/**
-!DATA/sm_monthly_passive_v202012.zip
+data_dir/**
