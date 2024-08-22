@@ -3,8 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.12
-  - jupyterlab
+  - python=3.8
+  - jupyterlab=3.5.0
   - pandas
   - numpy
   - netCDF4
