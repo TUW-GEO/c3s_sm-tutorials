@@ -6,3 +6,4 @@ dependencies:
   - mamba
   - python=3.12
   - jupyterlab
+# remaining dependencies are installed in postBuild
