@@ -1,5 +1,2 @@
-# install binder dependencies
-mamba install -c defaults -c conda-forge pandas numpy netCDF4 xarray dask cartopy jupyter_contrib_nbextensions nb_conda_kernels pip
-pip install cdsapi black[jupyter]
 # download fall-back data (for binder)
 wget -q -O data_v1.1.zip "https://cloud.geo.tuwien.ac.at/s/QKqJqw646zfAxKH/download" && unzip -n data_v1.1.zip && rm data_v1.1.zip
