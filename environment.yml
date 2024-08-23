@@ -3,7 +3,17 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - mamba
-  - python=3.12
+  - python=3.10
   - jupyterlab
-# remaining dependencies are installed in postBuild
+  - nb_conda_kernels
+  - pip
+  - pip:
+      - pandas
+      - numpy
+      - netCDF4
+      - cartopy
+      - xarray
+      - dask
+#      - jupyter_contrib_nbextensions
+      - cdsapi
+      - black[jupyter]
